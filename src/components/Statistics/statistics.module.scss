@@ -1,0 +1,27 @@
+.box {
+  display: flex;
+
+  li:not(:last-child) {
+    margin-bottom: 10px;
+  }
+}
+
+.list-name {
+  width: 150px;
+  margin-left: auto;
+
+  text-align: left;
+
+  > li:nth-child(4n) {
+    font-weight: 900;
+  }
+}
+
+.list-data {
+  width: 70px;
+  margin-right: auto;
+
+  > li:nth-child(4n) {
+    font-weight: 900;
+  }
+}
