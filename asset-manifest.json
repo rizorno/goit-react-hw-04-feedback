@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rizorno/goit-react-hw-04-feedback/static/css/main.c0a35e62.css",
+    "main.js": "/rizorno/goit-react-hw-04-feedback/static/js/main.f039e64b.js",
+    "index.html": "/rizorno/goit-react-hw-04-feedback/index.html",
+    "main.c0a35e62.css.map": "/rizorno/goit-react-hw-04-feedback/static/css/main.c0a35e62.css.map",
+    "main.f039e64b.js.map": "/rizorno/goit-react-hw-04-feedback/static/js/main.f039e64b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0a35e62.css",
+    "static/js/main.f039e64b.js"
+  ]
+}
